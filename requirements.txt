@@ -5,3 +5,4 @@ numpy==1.15.4
 pandas==0.23.4
 scipy==1.1.0
 streamlit==0.64.0
+prettytable==2.0.0
